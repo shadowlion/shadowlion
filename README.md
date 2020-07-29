@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! I'm Justin — a software engineer, open source contributor, and ballroom dancer.
+
+Currently working for [@wunderfund](//wunderfund.co), I also maintain a number of small development projects from the local region.
+
+### Side Projects
+
+- [Ballroom East Dance Studio](//ballroomeast.com) - website
+- [Aesthetics in Jewelry](//aestheticsinjewelry.com) - Website
+
+If you need to reach me, feel free to email me at [justin@wunderfund.co](mailto:justin@wunderfund.co).
 
 <!--
 **shadowlion/shadowlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
