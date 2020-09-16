@@ -2,9 +2,10 @@
 
 Currently working for [@wunderfund](//wunderfund.co), I also maintain a number of small development projects from the local region.
 
-### Side Projects
+### Side Projects I'm Maintaining:
 
-- [Ballroom East Dance Studio](//ballroomeast.com) - website
+- [Esoteric Brewing Company](//esoteric-brewing-crowdfunding.netlify.app) - Website
+- [Ballroom East Dance Studio](//ballroomeast.com) - Website
 - [Aesthetics in Jewelry](//aestheticsinjewelry.com) - Website
 
 If you need to reach me, feel free to email me at [justin@wunderfund.co](mailto:justin@wunderfund.co).
