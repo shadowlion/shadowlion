@@ -2,6 +2,8 @@
 
 Currently working for [@wunderfund](//wunderfund.co), I also maintain a number of small development projects from the local region.
 
+[![GitHub metrics](https://metrics.lecoq.io/shadowlion?pagespeed=1&languages=1&followup=1&habits.from=100&music.mode=playlist)](https://github.com/lowlighter/metrics)
+
 ### Side Projects I'm Maintaining:
 
 - [Esoteric Brewing Company](//esoteric-brewing-crowdfunding.netlify.app) - Website
