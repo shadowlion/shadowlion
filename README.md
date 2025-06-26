@@ -3,12 +3,14 @@
 - 🔭 I’m currently working on:
   - [The Wunderfund Platform](https://wunderfund.co)
   - [Sodalis Healthcare Ventures](https://sodalishealth.com)
-  - [Dance Vision](https://dancevision.com)
+  - [InvestorBase](https://investorbase.com)
 
 - 💬 Solving problems using:
   - Python (Django/Flask)
   - Typescript (NextJS, NuxtJS v3)
   - Firebase
+  - Supabase
+  - PocketBase
 
 - 🌱 I’m currently learning:
   - Golang
